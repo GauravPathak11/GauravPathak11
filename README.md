@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravpathak&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpathak" /> </p>
-
+<p align="left"> <a href="https://twitter.com/gauravpathak413" target="blank"><img src="https://img.shields.io/twitter/follow/gauravpathak?logo=twitter&style=for-the-badge" alt="gauravpathak413" /></a> </p>
 
 
 - 🔭 I’m currently working on **Rental Car System**
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+<a href="https://twitter.com/gauravpathak413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravpathak" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gaurav pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav pathak" height="30" width="40" /></a>
 <a href="https://fb.com/gaurav pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gaurav pathak" height="30" width="40" /></a>
 <a href="https://instagram.com/gauravpathak.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauravpathak.52" height="30" width="40" /></a>
