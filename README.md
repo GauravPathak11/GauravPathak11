@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/gauravpathak413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav pathak" height="30" width="40" /></a>
 <a href="https://fb.com/gauravpathak413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gaurav pathak" height="30" width="40" /></a>
 <a href="https://instagram.com/gauravpathak.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauravpathak.52" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@csdsa_21b1541055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@csdsa_21b1541055" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@csdsa_21b1541055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Gaurav Pathak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
