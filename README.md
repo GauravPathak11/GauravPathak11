@@ -4,8 +4,6 @@
 **GauravPathak11/GauravPathak11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -23,11 +21,8 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/gauravpathak413" target="blank"><img src="https://img.shields.io/twitter/follow/gauravpathak?logo=twitter&style=for-the-badge" alt="gauravpathak413" /></a> </p>
 
 
-- 🔭 I’m currently working on **Rental Car System**
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **MEAN-MERN**
+- 💬 Ask me about **MEAN and DSA**
 
 - 📫 How to reach me **pathakgaurav413@gmail.com**
 
